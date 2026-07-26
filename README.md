@@ -89,4 +89,4 @@ This project is an interactive Financial Performance Dashboard built using Power
 
 ## 👨‍💻 Author
 
-**Karan**
+Nikhil Kirar**
